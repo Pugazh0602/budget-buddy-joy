@@ -64,12 +64,12 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				budget: {
-					food: '#8B5CF6',
-					transport: '#0EA5E9',
-					housing: '#F97316',
-					entertainment: '#D946EF',
-					utilities: '#10B981',
-					other: '#6B7280'
+					food: '#9b87f5',
+					transport: '#7E69AB',
+					housing: '#6E59A5',
+					entertainment: '#8B5CF6',
+					utilities: '#8B5CF6',
+					other: '#D6BCFA'
 				}
 			},
 			borderRadius: {
